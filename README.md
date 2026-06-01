@@ -8,6 +8,18 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 pnpm create expo-app [project-name] --template https://github.com/nelwincatalogo/nativewind-expo
 ```
 
+## With Convex
+
+```bash
+pnpm create expo-app [project-name] --template https://github.com/nelwincatalogo/nativewind-expo/tree/with-convex
+```
+
+## With Convex and Auth
+
+```bash
+pnpm create expo-app [project-name] --template https://github.com/nelwincatalogo/nativewind-expo/tree/with-convex-auth
+```
+
 ## Get started
 
 1. Install dependencies
